@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Мугудин — фронтенд
 
-<!--
-**mugushka/mugushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🎯 **Цель:** Развиваться в области кибербезопасности, программирования и разработки инновационных решений.
 
-Here are some ideas to get you started:
+## 📋 **Обо мне** Меня зовут Мугудин. Я фронтенд-разработчик . Я изучаю следующие языки Html/Css, Sccs, JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 **Образование**
+ **Колледж CASPIAN ITHUB** 
+  Направление: "Веб-разработка - фронтенд ",
+
+
+
+## 📲 **Свяжитесь со мной**
+- ✉️ **Email:** mugudin.vaylomatov.06@mail.ru
+- ➤ **Telegram:** https://t.me/kumykskiyyy
+
+## 🏆 **Достижения**
+### 2023  
+- 🥇 **Победитель проекта "BIZ IDEA"** среди студентов 1 курса.  
+
+
